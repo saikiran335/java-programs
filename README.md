@@ -1,1 +1,3 @@
 # java-programs
+These programs are truely by me, these are open to all....
+I uploaded both java file and also java file with class file... for ur reference..
